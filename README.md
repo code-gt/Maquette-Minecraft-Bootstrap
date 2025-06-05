@@ -11,3 +11,5 @@
 - Les textes à intégrer se trouvent dans le dossier `textes`
 
 - Le projet intègre deux fichier css, `base.css`qui contient le style CSS de base en place pour vous aider, et `style.css` pour y ajouter vos styles CSS afin de compléter la maquette.
+
+- Chaque lien du menu de navigation doit scroller jusqu'à la section correspondante de la page.
