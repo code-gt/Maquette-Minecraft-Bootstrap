@@ -73,4 +73,4 @@ Utilisez des balises sémantiques pour structurer votre contenu de manière sign
 ## Images et Vidéos
 
 - **Images** : Utilisez la classe `img-fluid` pour que les images s'adaptent à la largeur de leur conteneur.
-- **Vidéos** : Utilisez des iframes pour intégrer des vidéos YouTube. Assurez-vous d'utiliser des classes de responsive design pour les rendre adaptées à toutes les tailles d'écran.
+- **Vidéos** : Utilisez des `iframe` pour intégrer des vidéos YouTube. Assurez-vous d'utiliser des classes de responsive design pour les rendre adaptées à toutes les tailles d'écran.
