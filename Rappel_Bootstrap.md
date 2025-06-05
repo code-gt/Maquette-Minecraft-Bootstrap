@@ -2,7 +2,7 @@
 
 ## Structure de Base
 
-Créez un fichier HTML de base avec les éléments suivants :
+Utilisez le fichier `index.html` de base avec les éléments suivants :
 
 - **DOCTYPE** : `<!DOCTYPE html>`
 - **HTML** : `<html lang="fr">`
