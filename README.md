@@ -15,3 +15,7 @@
 - Chaque lien du menu de navigation doit scroller jusqu'à la section correspondante de la page.
 
 - Utilise le code `<div class="hl-deco"></div>` pour inclure l'épée qui sépare les sections dans ta page.
+
+
+
+![image](img/maquette-finale-minecraft.jpg)
