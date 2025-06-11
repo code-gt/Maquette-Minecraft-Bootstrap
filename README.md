@@ -2,7 +2,7 @@
 
 - Reproduire la maquette fournir dans le dossier `img` du projet.
 
-- Lier le CSS et le JS Bootstrap via CDN
+- Lier le CSS et le JS Bootstrap via CDN sur le [site officiel](https://getbootstrap.com/)
 
 - Suivre méticuleusement les instructions (en commentaires HTML) du ficher `index.html` pour vous aidez à construire la page et ses sections.
 
