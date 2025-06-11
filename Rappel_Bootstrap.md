@@ -1,6 +1,6 @@
 # Instructions pour la Création d'une Page Minecraft avec Bootstrap
 
-## Structure de Base
+## Structure de Base HTML
 
 Utilisez le fichier `index.html` de base avec les éléments suivants :
 
@@ -8,6 +8,16 @@ Utilisez le fichier `index.html` de base avec les éléments suivants :
 - **HTML** : `<html lang="fr">`
 - **Head** : Contient les métadonnées, le titre, et les liens vers les feuilles de style Bootstrap et vos fichiers CSS.
 - **Body** : Contient tout le contenu visible de votre page.
+
+## Balises Sémantiques
+
+Utilisez des balises sémantiques pour structurer votre contenu de manière significative :
+
+- **`<header>`** : En-tête de la page ou d'une section.
+- **`<nav>`** : Section de navigation.
+- **`<main>`** : Contenu principal de la page.
+- **`<section>`** : Section générique pour regrouper du contenu.
+- **`<footer>`** : Pied de page.
 
 ## Navbar
 
@@ -37,6 +47,28 @@ Utilisez des conteneurs et des rangées pour structurer votre contenu :
 - **`row`** : Rangées pour organiser les colonnes.
 - **`col-lg-*`** : Colonnes pour organiser le contenu horizontalement.
 
+
+```html
+<!-- Exemple de grid Bootstrap -->
+<div class="container">
+  <!-- Rangée -->
+  <div class="row">
+    <!-- colonne -->
+    <div class="col-lg-4">
+      Column #1
+    </div>
+    <!-- colonne -->
+    <div class="col-lg-4">
+      Column #2
+    </div>
+    <!-- colonne -->
+    <div class="col-lg-4">
+      Column #3
+    </div>
+  </div>
+</div>
+```
+
 ## Classes de Spacing
 
 Bootstrap offre des classes pour gérer les marges et les paddings :
@@ -59,16 +91,6 @@ Pour aligner le texte, utilisez les classes suivantes :
 - **`text-center`** : Centre le texte.
 - **`text-start`** : Aligne le texte à gauche.
 - **`text-end`** : Aligne le texte à droite.
-
-## Balises Sémantiques
-
-Utilisez des balises sémantiques pour structurer votre contenu de manière significative :
-
-- **`<header>`** : En-tête de la page ou d'une section.
-- **`<nav>`** : Section de navigation.
-- **`<main>`** : Contenu principal de la page.
-- **`<section>`** : Section générique pour regrouper du contenu.
-- **`<footer>`** : Pied de page.
 
 ## Images et Vidéos
 
