@@ -91,9 +91,8 @@ Bootstrap offre des classes pour gérer les marges et les paddings :
 </section>
 
 <!-- Exemple sur une balise <p> -->
-<p class="mt-3">Paragraphe</p>
+<p class="mt-3">Paragraphe avec du margin-top</p>
 ```
-
 
 ## Alignement de Texte
 
@@ -107,6 +106,11 @@ Pour aligner le texte, utilisez les classes suivantes :
 <!-- Exemple -->
 <p class=text-center">Paragraphe centré</p>
 ```
+
+## Flexbox
+
+Utilisez la class `d-flex` sur une `div` ou une `section` pour déclarer une flexbox avec Bootstrap.
+Vous pouvez ensuite utilisez les class de flex, par exemple `justify-content-center`, `flex-column`, `align-items-center`, etc pour aligner correctement vos contenus HTML.
 
 ## Images et Vidéos
 
