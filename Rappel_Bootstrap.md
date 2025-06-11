@@ -112,6 +112,13 @@ Pour aligner le texte, utilisez les classes suivantes :
 Utilisez la class `d-flex` sur une `div` ou une `section` pour déclarer une flexbox avec Bootstrap.
 Vous pouvez ensuite utilisez les class de flex, par exemple `justify-content-center`, `flex-column`, `align-items-center`, etc pour aligner correctement vos contenus HTML.
 
+```html
+<!-- Exemple -->
+<section class="container d-flex align-items-center justify-content-center">
+  <!-- Contenu parfaitement centré -->
+</section
+```
+
 ## Images et Vidéos
 
 - **Images** : Utilisez la classe `img-fluid` pour que les images s'adaptent à la largeur de leur conteneur.
