@@ -104,7 +104,7 @@ Pour aligner le texte, utilisez les classes suivantes :
 
 ```html
 <!-- Exemple -->
-<p class=text-center">Paragraphe centré</p>
+<p class="text-center">Paragraphe centré</p>
 ```
 
 ## Flexbox
