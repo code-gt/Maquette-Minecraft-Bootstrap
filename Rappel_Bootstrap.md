@@ -50,7 +50,7 @@ Utilisez des conteneurs et des rangées pour structurer votre contenu :
 
 ```html
 <!-- Exemple de grid Bootstrap -->
-<div class="container">
+<section class="container">
   <!-- Rangée -->
   <div class="row">
     <!-- colonne -->
@@ -66,7 +66,7 @@ Utilisez des conteneurs et des rangées pour structurer votre contenu :
       Column #3
     </div>
   </div>
-</div>
+</section>
 ```
 
 ## Classes de Spacing
@@ -84,6 +84,17 @@ Bootstrap offre des classes pour gérer les marges et les paddings :
 - **`py-*`** : Padding vertical (top et bottom).
 - **`px-*`** : Padding horizontal (start et end).
 
+```html
+<!-- Exemple sur une section -->
+<section class="container-fluid py-5">
+  <!-- Contenu HTML -->
+</section>
+
+<!-- Exemple sur une balise <p> -->
+<p class="mt-3">Paragraphe</p>
+```
+
+
 ## Alignement de Texte
 
 Pour aligner le texte, utilisez les classes suivantes :
@@ -91,6 +102,11 @@ Pour aligner le texte, utilisez les classes suivantes :
 - **`text-center`** : Centre le texte.
 - **`text-start`** : Aligne le texte à gauche.
 - **`text-end`** : Aligne le texte à droite.
+
+```html
+<!-- Exemple -->
+<p class=text-center">Paragraphe centré</p>
+```
 
 ## Images et Vidéos
 
