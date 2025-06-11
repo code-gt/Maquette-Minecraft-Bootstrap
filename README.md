@@ -1,10 +1,10 @@
 # Maquette  Minecraft avec Bootstrap 5.3
 
-- Reproduire la maquette fournir dans le dossier `img` du projet.
+- Reproduisez la maquette fournie dans le dossier `img` du projet.
 
-- Lier le CSS et le JS Bootstrap via CDN sur le [site officiel](https://getbootstrap.com/)
+- Liez le CSS et le JS Bootstrap via CDN sur le [site officiel](https://getbootstrap.com/)
 
-- Suivre méticuleusement les instructions (en commentaires HTML) du ficher `index.html` pour vous aidez à construire la page et ses sections.
+- Suivez méticuleusement les instructions (en commentaires HTML) du ficher `index.html` pour vous aidez à construire la page et ses sections.
 
 - Les liens images et les liens vidéos sont donnés dans le fichier `index.html`
 
@@ -14,7 +14,7 @@
 
 - Chaque lien du menu de navigation doit scroller jusqu'à la section correspondante de la page.
 
-- Utilise le code `<div class="hl-deco"></div>` pour inclure l'épée qui sépare les sections dans ta page.
+- Utilisez le code `<div class="hl-deco"></div>` pour inclure l'épée qui sépare les sections dans votre page.
 
 
 ![image](img/maquette-finale-minecraft.jpg)
